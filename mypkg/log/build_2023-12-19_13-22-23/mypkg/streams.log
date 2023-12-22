@@ -1,0 +1,37 @@
+[0.711s] Invoking command in '/home/tsubo/ros_ws3/src/mypkg': PYTHONPATH=/home/tsubo/ros_ws3/src/mypkg/build/mypkg/prefix_override:/home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build install --record /home/tsubo/ros_ws3/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
+[0.844s] running egg_info
+[0.844s] creating build/mypkg/mypkg.egg-info
+[0.844s] writing build/mypkg/mypkg.egg-info/PKG-INFO
+[0.844s] writing dependency_links to build/mypkg/mypkg.egg-info/dependency_links.txt
+[0.844s] writing entry points to build/mypkg/mypkg.egg-info/entry_points.txt
+[0.844s] writing requirements to build/mypkg/mypkg.egg-info/requires.txt
+[0.845s] writing top-level names to build/mypkg/mypkg.egg-info/top_level.txt
+[0.845s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.868s] reading manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.868s] writing manifest file 'build/mypkg/mypkg.egg-info/SOURCES.txt'
+[0.868s] running build
+[0.869s] running build_py
+[0.869s] creating /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build
+[0.869s] creating /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build/lib
+[0.869s] creating /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build/lib/mypkg
+[0.869s] copying mypkg/talker.py -> /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build/lib/mypkg
+[0.869s] copying mypkg/__init__.py -> /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build/lib/mypkg
+[0.869s] running install
+[0.869s] running install_lib
+[0.870s] creating /home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[0.870s] copying /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build/lib/mypkg/talker.py -> /home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[0.870s] copying /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build/lib/mypkg/__init__.py -> /home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg
+[0.870s] byte-compiling /home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/talker.py to talker.cpython-38.pyc
+[0.871s] byte-compiling /home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg/__init__.py to __init__.cpython-38.pyc
+[0.871s] running install_data
+[0.872s] creating /home/tsubo/ros_ws3/src/mypkg/install/mypkg/share/ament_index
+[0.872s] creating /home/tsubo/ros_ws3/src/mypkg/install/mypkg/share/ament_index/resource_index
+[0.872s] creating /home/tsubo/ros_ws3/src/mypkg/install/mypkg/share/ament_index/resource_index/packages
+[0.872s] copying resource/mypkg -> /home/tsubo/ros_ws3/src/mypkg/install/mypkg/share/ament_index/resource_index/packages
+[0.873s] copying package.xml -> /home/tsubo/ros_ws3/src/mypkg/install/mypkg/share/mypkg
+[0.873s] running install_egg_info
+[0.874s] Copying build/mypkg/mypkg.egg-info to /home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages/mypkg-0.0.0-py3.8.egg-info
+[0.874s] running install_scripts
+[0.886s] Installing talker script to /home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/mypkg
+[0.887s] writing list of installed files to '/home/tsubo/ros_ws3/src/mypkg/build/mypkg/install.log'
+[0.902s] Invoked command in '/home/tsubo/ros_ws3/src/mypkg' returned '0': PYTHONPATH=/home/tsubo/ros_ws3/src/mypkg/build/mypkg/prefix_override:/home/tsubo/ros_ws3/src/mypkg/install/mypkg/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base build/mypkg build --build-base /home/tsubo/ros_ws3/src/mypkg/build/mypkg/build install --record /home/tsubo/ros_ws3/src/mypkg/build/mypkg/install.log --install-scripts $base/lib/mypkg --single-version-externally-managed
